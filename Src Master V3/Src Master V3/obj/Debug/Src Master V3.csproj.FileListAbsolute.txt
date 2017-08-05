@@ -1,0 +1,9 @@
+c:\users\bagal\desktop\projects\Src Master V3\Src Master V3\bin\Debug\Src Master V3.exe.config
+c:\users\bagal\desktop\projects\Src Master V3\Src Master V3\bin\Debug\Src Master V3.exe
+c:\users\bagal\desktop\projects\Src Master V3\Src Master V3\bin\Debug\Src Master V3.pdb
+c:\users\bagal\desktop\projects\Src Master V3\Src Master V3\obj\Debug\Src Master V3.csprojResolveAssemblyReference.cache
+c:\users\bagal\desktop\projects\Src Master V3\Src Master V3\obj\Debug\Src_Master_V3.Properties.Resources.resources
+c:\users\bagal\desktop\projects\Src Master V3\Src Master V3\obj\Debug\Src Master V3.csproj.GenerateResource.Cache
+c:\users\bagal\desktop\projects\Src Master V3\Src Master V3\obj\Debug\Src Master V3.exe
+c:\users\bagal\desktop\projects\Src Master V3\Src Master V3\obj\Debug\Src Master V3.pdb
+c:\users\bagal\desktop\projects\Src Master V3\Src Master V3\obj\Debug\Src_Master_V3.Form1.resources
